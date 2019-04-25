@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Victor Coscrato"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,10 +9,10 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Master's student in statistics"
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+#   Separate multiple entries with a comma, using the form: `[ {name="Deparment of Statistics, Federal University of São Carlos (UFSCar)", url="http://www.des.ufscar.br/"}, {name="ICMC - Instituto de Ciências Matemáticas e de Computação", url="https://www.icmc.usp.br/"} ]`.
 organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
