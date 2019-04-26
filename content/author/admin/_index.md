@@ -45,7 +45,7 @@ user_groups = "Statistical Machine Learning Lab - Small"
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:vcoscrato@gmail.com".
+  link = "mailto:vcoscrato@gmail.com"
 
 [[social]]
   icon = "google-scholar"
