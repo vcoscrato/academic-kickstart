@@ -35,7 +35,7 @@ user_groups = "Statistical Machine Learning Lab - Small"
 [[education.courses]]
   course = "Master's in statistics"
   institution = "PIPGEs (UFSCar / USP)"
-  year = Current
+  year = 2019
 
 [[education.courses]]
   course = "BSc in statistics"
